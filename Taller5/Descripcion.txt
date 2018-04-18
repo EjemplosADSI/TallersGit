@@ -1,0 +1,32 @@
+1 - Inicializar un nuevo repositorio.
+2 - Verificar el estado del repositorio.
+3 - Añadir solamente el archivo index.html a la stagin area.
+4 - Hacer un commit con el mensaje "Pagina Inicial"
+5 - Crear la rama moma
+6 - Cambiar una rama llamada "moma"
+7 - Modificar el archivo index.html agregando un encabezado en el cuerpo con el encabezado "Soy Moma..."
+8 - Agregar index.html a la stage area.
+9 - Hacer un commit con el texto "Agrege a moma"
+10 - Cambiar a la rama master.
+11 - Crear una rama llamada "whitney"
+12 - Cambiar una rama llamada "whitney"
+13 - Modificar el archivo index.html agregando un encabezado en el cuerpo con el encabezado "Soy Whitney..."
+14 - Agregar index.html a la stage area.
+15 - Cambiar a la rama master
+16 - Listar las ramas actuales.
+17 - Eliminar la rama moma.
+18 - El usuario quiere agregar una lista desordenada a la pagina, cree una rama llamada "unordered-list".
+19 - Cambie a la rama "unordered-list".
+20 - Modifique el archivo index.html agregando una lista desordenada de 5 elementos entre el primer y segundo parrafo y guardelo.
+21 - Verificar el estado del repositorio.
+22 - Agregar TODOS los archivos a la stage area.
+23 - Verificar el estado del repositorio.
+24 - Realizar un commit con el texto "Lista agregada a index.html"
+25 - Cambie a la rama master.
+26 - Combien los cambios realizado en la rama "unordered-list" con la rama master.
+27 - El cliente quiere el ultimo subtitulo mas grande. Cree una rama llamada "big-heading".
+28 - Cambie a la rama big-heading
+29 - En index.html cambie el titulo h3 por un h1.
+30 - Agrege index.html a la stage area
+31 - Cambie a la rama master.
+32 - Fusione los cambios de la rama "big-heading" con la "master"

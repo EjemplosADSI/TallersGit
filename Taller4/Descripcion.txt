@@ -1,0 +1,45 @@
+1 - Inicializar un nuevo repositorio.
+2 - Verificar el estado del repositorio.
+3 - Añadir los 3 archivos a la stagin area.
+4 - Hacer un commit con el mensaje "Dibujos ASCII Base"
+5 - Modificar el archivo portrait.txt con el siguiente texto.
+
+
+
+	            ___________
+	           /           \
+	          /             \
+	         |               |
+	        C|    O     O    |C
+	         |               |
+	         |               |
+	          \        >    /
+	           |           |
+	           |           |
+	           |   -----   |
+	            \         /
+	             \_______/
+
+
+	November 12, 2014
+
+6 - Añadir el archivo a la stagin area.
+7 - Realizar un commit con el texto "Cara Lampiña"
+8 - Reversar los cambios realizados en el archivo portrait.txt con checkout volviendo a dejar el dibujo con barba.
+9 - Colocarle Ojos con cejas al dibujo.
+
+  ===       ===
+  O           O
+
+10 - Añadirlo al stagin area.
+11 - Realizar un commit con el texto "Con Ojos y Barba"
+12 - Los 3 archivos tienen una fecha incorrecta coloca la fecha del dia de hoy
+13 - Añadir los 3 archivo a la stagin area con un solo comando.
+14 - Realizar un commit con el texto "Fechas Actualizadas"
+15 - Se ha olvidado colocar su nombre al final de cada archivo... Agrege su nombre al final de cada archivo.
+16 - Añada todos los archivos al stage area.
+17 - Eliminar el archivo house.txt
+18 - Añadir los cambios al stage area.
+19 - Realizar un commit como "House Eliminada"
+20 - Restaurar el archivo house.txt al area de trabajo.
+21 - Hacer un commit con el texto "House Restaurada"
